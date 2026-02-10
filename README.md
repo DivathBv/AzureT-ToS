@@ -1,2 +1,2 @@
 # AzureT-ToS
-AzureT terms of service
+AzureT legal document for the Discord bot
