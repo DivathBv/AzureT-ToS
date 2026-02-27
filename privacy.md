@@ -11,19 +11,14 @@ Datos que se procesan:
 - Mensajes enviados en los canales donde el bot tiene acceso
 
 Uso de los datos:
-Los mensajes se leen únicamente para contar la actividad de los usuarios dentro
-de cada servidor y generar rankings de mensajes por servidor.
+Los mensajes se leen únicamente para contar la actividad de los usuarios y generar rankings de mensajes.
 El contenido de los mensajes no se utiliza para otros fines ni se analiza fuera
 de este propósito.
 
 Almacenamiento:
 El bot puede almacenar contadores de mensajes asociados a los IDs de usuario y
-servidor. Los rankings son independientes para cada servidor.
+servidor. Los rankings no son independientes para cada servidor.
 No se almacenan datos personales sensibles ni se comparten con terceros.
-
-Eliminación de datos:
-Los administradores del servidor o los usuarios pueden solicitar la eliminación
-de los datos asociados a un servidor o usuario contactando al desarrollador.
 
 Contacto:
 Correo electrónico: gotin5050@gmail.com
